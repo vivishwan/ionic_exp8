@@ -1,0 +1,18 @@
+ion-content {
+  --background: #ccf5ff;
+
+  --color: black;
+}
+
+.main {
+  border-top: 4px solid rgba(193, 66, 66, 0.3);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  border-bottom: 4px solid rgba(193, 66, 66, 0.3);
+}
+
+calendar {
+  --background: #3fbf83;
+}
